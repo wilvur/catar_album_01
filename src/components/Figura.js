@@ -8,7 +8,8 @@ import HeatMap from './HeatMap'
 
 export default function Figura({jugador }) {
   const {pais, nombre, altura, peso, imagen, posicion, dataPos, dataImagen, descripcion ,equipos, nacimiento} =  jugador
-  const url = "./img/" + imagen
+  const url = "https://wilvur.github.io/catar_album_01/img/" + imagen
+
 
   const getEdad = (n) => {
     const ini = n.indexOf("(") + 5;

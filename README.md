@@ -1,6 +1,10 @@
-# Getting Started with Create React App
+# Albúm digital Mundial Catar ver 01 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+_Es un proyecto hecho con React para mostrar info de los jugadores del mundial, realizada con información obtenida de manera automatica usando Python + Selenium
+
+## Construido con 🛠️
+
+_Create React App  [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 

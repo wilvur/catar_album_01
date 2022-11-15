@@ -12,7 +12,7 @@ export default function Main() {
   return (
     <div className='w-full bg-black bg-opacity-30 mx-2'>
      <MainHeader  id={id} nombre={nombre}/>
-     <div className='w-full mt-14 grid grid-cols-4 p-3 gap-4'>
+     <div className='w-full mt-14 grid grid-cols-1 lg:grid-cols-4 p-3 gap-4'>
       {equipos.length > 0 ?  equipos.map(jugador => <Figura key={jugador.nombre}  jugador={jugador}/>) : ""}
      </div>  
     </div>
