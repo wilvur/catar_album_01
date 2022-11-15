@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/catar_album_01/static/css/main.ca4c2a64.css",
-    "main.js": "/catar_album_01/static/js/main.8c4a5321.js",
+    "main.js": "/catar_album_01/static/js/main.d16a70ea.js",
     "static/js/787.4d9e936d.chunk.js": "/catar_album_01/static/js/787.4d9e936d.chunk.js",
     "static/media/catar.svg": "/catar_album_01/static/media/catar.5c054bce2450947e29c7d1d7eea7e369.svg",
     "static/media/paisesbajos.svg": "/catar_album_01/static/media/paisesbajos.efe4b0033877d56bede4f5a418e83ad8.svg",
@@ -45,11 +45,11 @@
     "index.html": "/catar_album_01/index.html",
     "static/media/marruecos.svg": "/catar_album_01/static/media/marruecos.62037f8848c25546b80c7a2bc31c672a.svg",
     "main.ca4c2a64.css.map": "/catar_album_01/static/css/main.ca4c2a64.css.map",
-    "main.8c4a5321.js.map": "/catar_album_01/static/js/main.8c4a5321.js.map",
+    "main.d16a70ea.js.map": "/catar_album_01/static/js/main.d16a70ea.js.map",
     "787.4d9e936d.chunk.js.map": "/catar_album_01/static/js/787.4d9e936d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ca4c2a64.css",
-    "static/js/main.8c4a5321.js"
+    "static/js/main.d16a70ea.js"
   ]
 }
